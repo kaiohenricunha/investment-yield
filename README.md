@@ -68,3 +68,5 @@ This snippet uses the matplotlib library to plot the investment's value after th
 
 This is the output for an initial investiment of R$ 10.000, expected yield of 10% per month, monthly contribution of R$ 300 and a total of 12 months.
 
+![Screen Shot 2021-12-12 at 11 29 32](https://user-images.githubusercontent.com/69804490/145716597-7f1948d9-37c4-4549-adc9-09b046a20c8b.png)
+
